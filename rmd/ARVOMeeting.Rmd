@@ -1,11 +1,7 @@
 ---
 title: '<div><img src="images/ohdsi40x40.png"></img> OHDSI Eye Care and Vision Research Working Group </div>'
 output:
-   html_document:
-        toc: TRUE
-        toc_depth: 3
-        toc_float:
-          collapsed: false
+   html_document
 ---
 
 <div align="center"> **In Person Meeting ARVO 2024 ** </div> 
